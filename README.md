@@ -1,13 +1,9 @@
-### Hey!
+### Hi!
 
-I'm Ivan, a Computer Science Student at UNC Charlotte with a concentration in AI, Robotics, and Gaming.
-I have experience in making mobile/web applications and some robotics stuff, but my passion is for game development.
+I'm Ivan; I make games, web applications, and robotics code!
 
-### A few things about me:
- - Former Strategy and Programming Lead of [FRC 5190](https://github.com/FRC5190)
- - Music and pixel art enthusiast
- - Video game enjoyer
+Check out my [itch.io](https://rir1nku.itch.io/) page to play the games I make!
 
 ---
-
-If you want to know some more about me, here's my [LinkedIn](https://www.linkedin.com/in/valadez-sei/).
+ - Recent Computer Science graduate
+ - Former Strategy and Programming Lead of [FRC 5190](https://github.com/FRC5190)
